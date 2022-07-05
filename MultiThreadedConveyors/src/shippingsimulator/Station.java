@@ -1,8 +1,7 @@
 /*
     Name: Alexander Wildey
-    Course: CNT 4714 Spring 2022
-    Assignment Title: Project 2 - Multi-threaded programming in Java
     Date: February 13, 2022
+    Project: Conveyor Simulation with Multithreading
 
     Class: Station
 */
